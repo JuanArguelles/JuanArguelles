@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JuanArguelles
-- 👀 I’m interested in Data Science, BlockChain, Cryptocurrencies
+- 👀 I’m interested in Data Science, BlockChain, Cryptocurrencies, Capital Markets, Risk
 - 🌱 I’m currently learning Server's administration, apache spark, Kubernetes
 - 💞️ I’m looking to collaborate on Data Science or BlockChains projects
 - 📫 How to reach me ...
